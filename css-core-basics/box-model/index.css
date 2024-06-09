@@ -1,0 +1,12 @@
+body{
+    background-color: darkslategray;
+  }
+
+div{
+  background-color: black;
+  color: aliceblue;
+  border: 10px solid grey;
+  margin: 20px;
+  padding: 20px;
+}
+
