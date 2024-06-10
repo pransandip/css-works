@@ -1,8 +1,9 @@
-## The CSS Box Model
+# The CSS Box Model
 
-In CSS, the term "box model" is used when talking about design and layout.
+In CSS, the term `box model` is used when talking about design and layout.
 
-The CSS box model is essentially a box that wraps around every HTML element. It consists of: content, padding, borders and margins. The image below illustrates the box model:
+The CSS box model is essentially a box that wraps around every HTML element. It consists of: \
+`content`, `padding`, `borders` and `margins`. The image below illustrates the box model:
 
 Explanation of the different parts:
 
