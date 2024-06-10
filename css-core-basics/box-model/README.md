@@ -5,10 +5,26 @@ In CSS, the term `box model` is used when talking about design and layout.
 The CSS box model is essentially a box that wraps around every HTML element. It consists of: \
 `content`, `padding`, `borders` and `margins`. The image below illustrates the box model:
 
-Explanation of the different parts:
+<img alt="box-model-img" src="https://github.com/pransandip/css-works/blob/main/css-core-basics/box-model/img/box-model.png?raw=true" width=800 height=360>
 
-- Content - The content of the box, where text and images appear
-- Padding - Clears an area around the content. The padding is transparent
-- Border - A border that goes around the padding and content
-- Margin - Clears an area outside the border. The margin is transparent
-- The box model allows us to add a border around elements, and to define space between elements.
+### Explanation of the different parts :
+
+- _Content_ - The content of the box, where text and images appear
+- _Padding_ - Clears an area around the content. The padding is transparent
+- _Border_ - A border that goes around the padding and content
+- _Margin_ - Clears an area outside the border. The margin is transparent
+
+#### The box model allows us to add a border around elements, and to define space between elements.
+
+### Example :
+
+_Demonstration of the box model :_
+
+```
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+```
