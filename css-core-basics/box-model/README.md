@@ -83,4 +83,4 @@ footer {
 }
 ```
 
-#### To know more go [click here.]('https://developer.mozilla.org/en-US/docs/Web/CSS/color-schemes')
+#### To know more go [click here.](https://developer.mozilla.org/en-US/docs/Web/CSS/color-schemes)
